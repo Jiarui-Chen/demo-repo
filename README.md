@@ -1,3 +1,3 @@
 # Demo
 
-This is a README simply for demo purposes. 
+This is a README simply for demonstration purposes. 
